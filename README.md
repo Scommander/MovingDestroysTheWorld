@@ -12,7 +12,7 @@
 
 ## How to Use & Information
 
-This is totally multiplayer compatible. When you load into the world simply type /trigger start_challenge. From that point onwards you will begin to destroy the world as you move around.
+This is totally multiplayer compatible. When you load into the world simply type /trigger start_challenge. From that point onwards you will begin to destroy the world as you move around. This datapack is made for 1.16+
 
 ## Installation
 
